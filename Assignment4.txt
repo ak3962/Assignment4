@@ -1,0 +1,15 @@
+Ashank Kumar
+
+1. strcat(string1, string2). This line of code adds two two strings together, the second string to the end of the first string..
+
+2. The size of the array is determined once data has been inputted
+
+3. int array[8][8] = {}; This line of code creates an 2d array with 8 rows, with each row having 8 columns.
+
+4a. strcmp() compares two strings ASCII values. If the first string is larger a positive number that is the difference between the strings ASCII values will be returned. The same will happen if the second string is larger, but the number will be negative. If they are equal a 0 will be returned.
+
+4b. fgets() reads strings from the keyboard by using the name of a variable, its size, and the command stdin
+
+4c. strcar concatenates or adds on string to the end of another.
+
+4d. Returns the length of a string excluding the \0
